@@ -1,9 +1,13 @@
 # Apple Collection Game
 
-For this project, I used Python and UVA's gamebox library to build an interactive game. 
+For this project, I used Python to build an interactive game. 
 
-Special thanks to my friend Jordan Stallard for also contributing to this project.
+Special thanks to my friend Jordan Stallard for contributing to this project.
 
-## Development
+## Review
 
-Please feel free to review my code and test it out for yourself.
+To replicate the game, you must have access to Luther Tychonievich's gamebox library file. That file is not shared here, as it is not my original work.
+
+Please feel free to review my code and video of the game.
+
+https://github.com/user-attachments/assets/048e1440-12c2-414d-afb1-f8e73eda6d9c
